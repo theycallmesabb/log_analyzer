@@ -1,17 +1,3 @@
-
-```markdown
-# SecureLog: Intelligent Log Analytics Platform
-### Real-Time Anomaly Detection and Monitoring System
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Spring Boot](https://img.shields.io/badge/Backend-Spring%20Boot%203.x-green)](https://spring.io/projects/spring-boot)
-[![React](https://img.shields.io/badge/Frontend-React%2018.x-blue)](https://react.dev/)
-[![H2 Database](https://img.shields.io/badge/Database-H2%20In--Memory-orange)](https://www.h2database.com/)
-
-An enterprise-grade, AI-powered log management and monitoring solution designed to overcome the scale and limitations of traditional rule-based monitoring. By leveraging a five-stage modular pipeline and a hybrid machine learning scoring engine embedded directly within a Java architecture, this platform automates log ingestion, filters out background noise, and surfaces critical system anomalies in real time.
-
----
-
 ## 📌 Project Overview
 
 Modern distributed architectures generate millions of log entries every second, making manual inspection impossible. Traditional rule-based alerting systems suffer from extreme alert fatigue and fail to catch zero-day behavioral anomalies. 
