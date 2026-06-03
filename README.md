@@ -1,8 +1,3 @@
-Here is your complete, fully optimized `README.md` file for GitHub, completely updated with your exact `application.properties` configurations, your pure Java/Spring Boot stack, and the academic details of your project.
-
-You can copy and paste this directly into your repository's `README.md` file.
-
----
 
 ```markdown
 # SecureLog: Intelligent Log Analytics Platform
